@@ -1,0 +1,136 @@
+body{
+margin:0 0 0 0;
+padding:0 0 0 0;
+text-align:center;
+color:#fff;
+}
+.cat.f00 {
+  background-image:url(img/catz00.gif);
+  background-color: #1CF9D4 ;
+  background-position:center;
+  background-attachment:fixed;
+  height:450px;
+  width:100%;
+  background-repeat:no-repeat;
+  margin:0 auto;
+}
+
+.cat.f01 {
+  background-image: url(img/catz01.gif);
+  background-color:#1DE4DB ;
+  background-position:center;
+  background-attachment:fixed;
+  height:450px;
+  background-repeat:no-repeat;
+  margin:0 auto;
+}
+
+.cat.f02 {
+  background-image: url(img/catz02.gif);
+  background-color: #1FD0E2;
+  background-position:center;
+  background-attachment:fixed;
+  height:450px;
+  background-repeat:no-repeat;
+  margin:0 auto;
+}
+
+.cat.f03 {
+  background-image: url(img/catz03.gif);
+  background-color: #20BBE9;
+  background-position:center;
+  background-attachment:fixed;
+  height:450px;
+  background-repeat:no-repeat;
+  margin:0 auto;
+}
+
+.cat.f04 {
+  background-image: url(img/catz04.gif);
+  background-color: #22A7F0;
+  background-position:center;
+  background-attachment:fixed;
+  height:450px;
+  background-repeat:no-repeat;
+  margin:0 auto;
+}
+
+.cat.f05 {
+  background-image: url(img/catz05.gif);
+  background-color: #2392F7;
+  background-position:center;
+  background-attachment:fixed;
+  height:450px;
+  background-repeat:no-repeat;
+  margin:0 auto;
+}
+
+.cat.f06 {
+  background-image: url(img/catz06.gif);
+  background-color: #4F87DC;
+  background-position:center;
+  background-attachment:fixed;
+  height:450px;
+  background-repeat:no-repeat;
+  margin:0 auto;
+}
+
+.cat.f07 {
+  background-image: url(img/catz07.gif);
+  background-color: #727EC7;
+  background-position:center;
+  background-attachment:fixed;
+  height:450px;
+  background-repeat:no-repeat;
+  margin:0 auto;
+}
+
+.cat.f08 {
+  background-image: url(img/catz08.gif);
+  background-color: #9575B2;
+  background-position:center;
+  background-attachment:fixed;
+  height:450px;
+  background-repeat:no-repeat;
+  margin:0 auto;
+}
+
+.cat.f09 {
+  background-image: url(img/catz09.gif);
+  background-color: #DC6387;
+  background-position:center;
+  background-attachment:fixed;
+  height:450px;
+  background-repeat:no-repeat;
+  margin:0 auto;
+}
+
+.cat.f10 {
+  background-image: url(img/catz10.gif);
+  background-color: #FF5A72;
+  background-position:center;
+  background-attachment:fixed;
+  height:450px;
+  background-repeat:no-repeat;
+  margin:0 auto;
+}
+
+.cat.f11 {
+  background-image: url(img/catz11.gif);
+  background-color: #FF6A62;
+  background-position:center;
+  background-attachment:fixed;
+  height:450px;
+  background-repeat:no-repeat;
+  margin:0 auto;
+}
+
+.cat.f12 {
+  background-image: url(img/catz12.gif);
+  background-color: #FF7755;
+  background-position:center;
+  background-attachment:fixed;
+  height:450px;
+  background-repeat:no-repeat;
+  margin:0 auto;
+}
